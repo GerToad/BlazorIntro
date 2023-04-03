@@ -1,0 +1,11 @@
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\bin\Debug\net5.0\HelloBlazor.Shared.deps.json
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\bin\Debug\net5.0\HelloBlazor.Shared.dll
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\bin\Debug\net5.0\ref\HelloBlazor.Shared.dll
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\bin\Debug\net5.0\HelloBlazor.Shared.pdb
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\obj\Debug\net5.0\HelloBlazor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\obj\Debug\net5.0\HelloBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\obj\Debug\net5.0\HelloBlazor.Shared.AssemblyInfo.cs
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\obj\Debug\net5.0\HelloBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\obj\Debug\net5.0\HelloBlazor.Shared.dll
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\obj\Debug\net5.0\ref\HelloBlazor.Shared.dll
+C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Shared\obj\Debug\net5.0\HelloBlazor.Shared.pdb
